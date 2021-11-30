@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/font/times_new_roman.xml" value="0.1" />
         <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/Menu.xml" value="0.264" />
-        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_burgers_menu.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_burgers_menu.xml" value="0.264" />
         <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
-        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_menu.xml" value="0.176" />
+        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_menu_desserts.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_menu_pizzas.xml" value="0.1" />
+        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_please_wait.xml" value="0.1609375" />
+        <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_salade.xml" value="0.2" />
         <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/activity_splashscreen.xml" value="0.1" />
         <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/menu.xml" value="0.176" />
         <entry key="..\:/Users/Nathan/AndroidStudioProjects/Eat/app/src/main/res/layout/splashscreen.xml" value="0.1793478260869565" />

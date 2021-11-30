@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Eat">
         <activity
+            android:name=".please_wait"
+            android:exported="true" />
+        <activity
+            android:name=".salade_activity"
+            android:exported="true" />
+        <activity
             android:name=".menu_pizzas"
             android:exported="true" />
         <activity
@@ -29,7 +35,8 @@
         </activity>
         <activity
             android:name=".MenuActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:label="@string/menu_quickeat" />
     </application>
 
 </manifest>
